@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Feyisara
 
-<!--
-**Feyisara-AO/Feyisara-AO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst passionate about turning messy data into meaningful insights.
 
-Here are some ideas to get you started:
+## Tools & Skills
+- Excel 
+- SQL 
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Fabric Sales Analysis](https://github.com/Feyisara-AO/Fabric-sales-analysis)
+
+## Currently 
+- Building real-world data projects  
+
+## Let's Connect
+- LinkedIn:(www.linkedin.com/in/akinyemi-feyisara-a5471b299)
