@@ -18,7 +18,7 @@ interpreting regulated datasets with the scientific rigour the field demands.
 ### 🛠️ Tools and Technologies
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel)
 ![R](https://img.shields.io/badge/R-Programming-276DC3?style=flat&logo=r)
-![SQL](https://img.shields.io/badge/SQL-In%20Progress-336791?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualisation-F2C811?style=flat&logo=powerbi)
 
 ---
