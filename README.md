@@ -1,6 +1,6 @@
 # Hi, I am Feyisara 👋
 
-## Clinical Data Analyst | Chemistry Graduate | Epidemiology & Pharmacoepidemiology
+## Clinical Data Analyst | Chemistry Graduate | Epidemiology & Biostatistic
 
 I work at the intersection of chemistry, clinical data, and population health — 
 interpreting regulated datasets with the scientific rigour the field demands.
